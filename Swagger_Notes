@@ -1,4 +1,4 @@
-Swagger for RestAPI documentation, Need configuration class and dependencies
+Swagger for RestAPI documentation and UI, Need configuration class and dependencies
 springfox-swagger-ui, springfox-swagger2 (or) springdoc-openapi-starter-webmvc-ui
 @Configuration
 @EnableSwagger2
